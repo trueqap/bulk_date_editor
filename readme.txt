@@ -1,6 +1,5 @@
 === Bulk date editor ===
 Contributors: @trueqap
-Donate link: http://example.com/
 Tags: post, date, bulk edit
 Requires at least: 3.0.1
 Tested up to: 3.9.2
